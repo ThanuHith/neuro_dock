@@ -1,0 +1,163 @@
+=================================================================
+  NEURO DOCK — PROTEIN-LIGAND INTERACTION REPORT
+=================================================================
+
+┌─ Hesperetin  vs  MAO-B
+│  Binding affinity: -9.02 kcal/mol
+│  Total interactions: 21
+│
+│  Hydrogen Bond (4):
+│    THR 195 OG1  ··· O     2.85 Å
+│    PRO 104 O    ··· O     2.99 Å
+│    THR 196 OG1  ··· O     3.00 Å
+│    ASP 123 OD2  ··· O     3.17 Å
+│  Salt Bridge (2):
+│    HIS 115 CB   ··· O     3.44 Å
+│    ARG 120 CA   ··· O     3.63 Å
+│  Hydrophobic (1):
+│    TRP 119 CD1  ··· C     3.46 Å
+│  Close Contact (14):
+│    THR 196 OG1  ··· H     2.49 Å
+│    PRO 104 O    ··· H     3.26 Å
+│    ASN 116 ND2  ··· C     3.30 Å
+│    PHE 103 CZ   ··· C     3.39 Å
+│    GLU 483 OE2  ··· O     3.52 Å
+│    THR 195 OG1  ··· H     3.54 Å
+│    VAL 106 CG2  ··· H     3.55 Å
+│    TRP 119 CB   ··· C     3.56 Å
+└───────────────────────────────────────────────────────────────
+
+┌─ Hesperidin  vs  MAO-B
+│  Binding affinity: -8.975 kcal/mol
+│  Total interactions: 37
+│
+│  Hydrogen Bond (12):
+│    THR 196 OG1  ··· O     2.79 Å
+│    ASN 116 ND2  ··· O     2.83 Å
+│    THR 478 O    ··· O     2.83 Å
+│    PRO 104 O    ··· O     2.92 Å
+│    ASP 123 OD2  ··· O     3.04 Å
+│    THR 195 OG1  ··· O     3.04 Å
+│    GLU 483 OE1  ··· O     3.12 Å
+│    PHE 103 O    ··· O     3.17 Å
+│  Salt Bridge (3):
+│    HIS 115 CB   ··· O     3.18 Å
+│    ARG 120 CA   ··· O     3.25 Å
+│    ARG 100 O    ··· O     3.79 Å
+│  Hydrophobic (2):
+│    TRP 119 CB   ··· C     3.58 Å
+│    PHE 103 CB   ··· C     3.63 Å
+│  Close Contact (20):
+│    THR 196 OG1  ··· H     1.85 Å
+│    ASN 116 ND2  ··· H     2.05 Å
+│    ARG 120 CA   ··· H     2.29 Å
+│    THR 478 O    ··· H     2.76 Å
+│    TRP 119 C    ··· H     2.76 Å
+│    GLU 483 OE1  ··· H     2.80 Å
+│    ARG 100 O    ··· H     2.83 Å
+│    TYR 112 CE2  ··· H     3.05 Å
+└───────────────────────────────────────────────────────────────
+
+┌─ Rutin  vs  MAO-B
+│  Binding affinity: -8.92 kcal/mol
+│  Total interactions: 30
+│
+│  Hydrogen Bond (8):
+│    THR 478 O    ··· O     2.90 Å
+│    VAL 106 N    ··· O     2.93 Å
+│    PRO 104 O    ··· O     2.97 Å
+│    THR 196 OG1  ··· O     3.09 Å
+│    PHE 103 O    ··· O     3.18 Å
+│    GLU 483 OE2  ··· O     3.35 Å
+│    ARG 120 N    ··· O     3.38 Å
+│    ASP 123 OD2  ··· O     3.50 Å
+│  Salt Bridge (1):
+│    ARG 120 CA   ··· O     3.55 Å
+│  Hydrophobic (2):
+│    PRO 102 CD   ··· C     3.65 Å
+│    PHE 103 CB   ··· C     3.99 Å
+│  Close Contact (19):
+│    THR 196 CG2  ··· H     2.64 Å
+│    PRO 104 O    ··· H     2.64 Å
+│    ASP 123 OD2  ··· H     2.71 Å
+│    THR 478 OG1  ··· H     2.86 Å
+│    GLU 483 OE2  ··· C     2.96 Å
+│    TYR 112 CD2  ··· H     3.04 Å
+│    VAL 106 N    ··· H     3.10 Å
+│    PHE 103 CB   ··· H     3.15 Å
+└───────────────────────────────────────────────────────────────
+
+┌─ Donepezil  vs  MAO-B
+│  Binding affinity: -8.844 kcal/mol
+│  Total interactions: 17
+│
+│  Salt Bridge (1):
+│    ARG 120 N    ··· O     3.82 Å
+│  Hydrophobic (3):
+│    PRO 105 CA   ··· C     3.37 Å
+│    PHE 103 CB   ··· C     3.41 Å
+│    TRP 119 CD1  ··· C     3.93 Å
+│  Close Contact (13):
+│    GLU 483 OE2  ··· C     3.31 Å
+│    VAL 106 O    ··· C     3.37 Å
+│    TYR 112 CE2  ··· C     3.46 Å
+│    TRP 119 CB   ··· O     3.48 Å
+│    THR 478 O    ··· C     3.51 Å
+│    PHE 103 CD1  ··· O     3.58 Å
+│    PRO 104 O    ··· C     3.62 Å
+│    ARG 120 CB   ··· C     3.63 Å
+└───────────────────────────────────────────────────────────────
+
+┌─ Luteolin  vs  MAO-B
+│  Binding affinity: -8.793 kcal/mol
+│  Total interactions: 20
+│
+│  Hydrogen Bond (5):
+│    THR 195 OG1  ··· O     2.84 Å
+│    THR 196 OG1  ··· O     2.86 Å
+│    ASP 123 OD2  ··· O     2.94 Å
+│    ASN 116 N    ··· O     3.47 Å
+│    GLU 483 OE2  ··· O     3.47 Å
+│  Salt Bridge (1):
+│    HIS 115 C    ··· O     3.64 Å
+│  Close Contact (14):
+│    THR 195 OG1  ··· H     1.93 Å
+│    ASP 123 OD2  ··· H     2.77 Å
+│    THR 196 OG1  ··· H     2.89 Å
+│    TRP 119 CD1  ··· C     3.48 Å
+│    GLU 483 OE2  ··· C     3.50 Å
+│    PHE 103 CD1  ··· C     3.51 Å
+│    ASN 116 CA   ··· O     3.52 Å
+│    ARG 120 CA   ··· C     3.60 Å
+└───────────────────────────────────────────────────────────────
+
+=================================================================
+  KEY BINDING RESIDUES SUMMARY
+=================================================================
+
+  Hydrogen Bond Partners:
+    Hesperidin ↔ THR196 (2.79 Å) in MAO-B
+    Hesperidin ↔ ASN116 (2.83 Å) in MAO-B
+    Hesperidin ↔ THR478 (2.83 Å) in MAO-B
+    Luteolin ↔ THR195 (2.84 Å) in MAO-B
+    Hesperidin ↔ PRO104 (2.92 Å) in MAO-B
+    Rutin ↔ VAL106 (2.93 Å) in MAO-B
+    Luteolin ↔ ASP123 (2.94 Å) in MAO-B
+    Hesperidin ↔ GLU483 (3.12 Å) in MAO-B
+    Hesperidin ↔ PHE103 (3.17 Å) in MAO-B
+    Hesperidin ↔ ARG120 (3.24 Å) in MAO-B
+    Hesperidin ↔ TRP119 (3.28 Å) in MAO-B
+    Hesperidin ↔ ARG100 (3.33 Å) in MAO-B
+    Hesperidin ↔ TYR112 (3.48 Å) in MAO-B
+
+  Hydrophobic Contacts:
+    Donepezil ↔ PRO105 (3.37 Å) in MAO-B
+    Donepezil ↔ PHE103 (3.41 Å) in MAO-B
+    Hesperetin ↔ TRP119 (3.46 Å) in MAO-B
+    Rutin ↔ PRO102 (3.65 Å) in MAO-B
+
+=================================================================
+  These residues are the primary docking targets.
+  Use PyMOL to visualise: open the receptor PDBQT
+  and docked ligand PDBQT, then select these residues.
+=================================================================
