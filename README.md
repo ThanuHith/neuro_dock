@@ -3,7 +3,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform: Linux/WSL](https://img.shields.io/badge/platform-Linux%20%7C%20WSL-lightgrey.svg)]()
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://https://neurodock-9agfknnfhnmgsxexmeffjm.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://neurodock-9agfknnfhnmgsxexmeffjm.streamlit.app/)
 
 **NeuroDock** is a fully open-source, end-to-end virtual screening pipeline for
 computational drug discovery targeting neurodegeneration. One command takes you
@@ -13,7 +13,7 @@ from SMILES strings to publication-quality results.
 
 ## Live Demo
 
-**Try the interactive app:** [NeuroDock on Streamlit](https://YOUR_APP_URL)
+**Try the interactive app:** [NeuroDock on Streamlit](https://neurodock-9agfknnfhnmgsxexmeffjm.streamlit.app/)
 
 Explore all docking results, ADMET profiles, nitrosamine risk assessments,
 and publication figures — without installing anything.
