@@ -13,7 +13,7 @@ from SMILES strings to publication-quality results.
 
 ## Live Demo
 
-**Try the interactive app:** [NeuroDock on Streamlit](https://https://neurodock-9agfknnfhnmgsxexmeffjm.streamlit.app/)
+**Try the interactive app:** [NeuroDock on Streamlit](https://YOUR_APP_URL)
 
 Explore all docking results, ADMET profiles, nitrosamine risk assessments,
 and publication figures — without installing anything.
