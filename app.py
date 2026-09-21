@@ -194,7 +194,7 @@ elif page == "Docking Results":
         else:
             return "color: #2563EB"
     st.dataframe(
-        df_full.style.applymap(color_decision, subset=["Final Decision"]),
+        df_full.style.map(color_decision, subset=["Final Decision"]),
         use_container_width=True, height=600
     )
 
@@ -335,7 +335,7 @@ elif page == "Figures":
         fpath = os.path.join(fig_dir, fname)
         if os.path.exists(fpath):
             st.markdown(f"### {title}")
-            st.image(fpath, caption=caption, use_column_width=True)
+            st.image(fpath, caption=caption, use_container_width=True)
         else:
             st.info(f"{title} — Run the pipeline first to generate: `{fpath}`")
 
